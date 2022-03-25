@@ -4,7 +4,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  background: url('/assets/images/login_bg.jpg') no-repeat center;
+  background: url('/项目课程资料/day1（1-3小节）/code作业/assets/images/login_bg.jpg') no-repeat center;
   background-size: cover;
 }
 
@@ -14,13 +14,13 @@ body {
   background-color: #fff;
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 360px;
   transform: translate(-50%, -50%);
 }
 
 .title-box {
   height: 60px;
-  background: url('/assets/images/login_title.png') no-repeat center;
+  background: url('/项目课程资料/day1（1-3小节）/code/assets/images/login_title.png') no-repeat center;
 }
 
 .reg-box {
