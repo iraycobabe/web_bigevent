@@ -73,7 +73,7 @@ $(function() {
         //后续才有权限访问主页等页面
         localStorage.setItem('token', res.token)
         //跳转到后台主页
-        location.href = '/index作业.html'
+        location.href = '/项目课程资料/day1（1-3小节）/code作业/index作业.html'
       }
     })
   })
